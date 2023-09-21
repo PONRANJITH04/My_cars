@@ -1,3 +1,11 @@
+# My_Cars
+    This project state management is handled by Redux-Toolkit
+## Functionality of This Project
+    *You can add cars you own with price
+    *You can search the car in the list
+    *when you adding a car details if that already present in the list that will be highlighted
+    *You can remove the car
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
